@@ -1,0 +1,1 @@
+{\n  "ublock": {\n    "dns": {\n      "enabled": true,\n      "rules": [\n        "||example.com^$dnsfilter",\n        "||example.org^$dnsfilter"\n      ]\n    },\n    "security": {\n      "account_key_management": {\n        "two_factor_auth": true,\n        "encryption": true,\n        "backup_codes": true\n      }\n    }\n  }\n}
