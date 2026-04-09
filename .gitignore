@@ -1,0 +1,6 @@
+# Ignore sensitive files
+*.key
+*.secret
+*.token
+account.txt
+.env
